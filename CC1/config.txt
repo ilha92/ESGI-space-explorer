@@ -1,0 +1,6 @@
+largeur=800
+hauteur=600
+nombre_asteroides=35
+nombre_ennemis=10
+vie_vaisseau=100
+vie_adversaire=50
